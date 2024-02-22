@@ -16,7 +16,7 @@
 {{ count_inversions.py }}
 ```
 
-### O(\log n) algorithms
+### O(n\log n) algorithms
 
 #### Merge sort
 
@@ -24,3 +24,8 @@
 {{ merge_sort.py }}
 ```
 
+### Counting sort
+
+```
+{{ counting_sort.py }}
+```
