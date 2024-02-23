@@ -6,3 +6,5 @@ A programmatic introduction in Python to concepts and algorithms in the Competit
 
 ## Chapters
 
+### 3. [Sorting](/tree/main/ch03-sorting)
+

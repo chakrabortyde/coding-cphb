@@ -2,7 +2,7 @@
 
 ## Sorting
 
-### O(n^2) algorithms
+### $O(n^2)$ algorithms
 
 #### Bubble sort
 
@@ -16,7 +16,7 @@
 {{ count_inversions.py }}
 ```
 
-### O(n\log n) algorithms
+### $O(n\log n)$ algorithms
 
 #### Merge sort
 
@@ -42,3 +42,8 @@
 {{ inbuilt_sort_with_comparison.py }}
 ```
 
+### User-defined structs
+
+```
+{{ user_defined_comparison.py }}
+```
