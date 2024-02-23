@@ -29,3 +29,16 @@
 ```
 {{ counting_sort.py }}
 ```
+
+## Sorting in Python
+
+```
+{{ inbuilt_sort.py }}
+```
+
+### Comparison operators
+
+```
+{{ inbuilt_sort_with_comparison.py }}
+```
+
