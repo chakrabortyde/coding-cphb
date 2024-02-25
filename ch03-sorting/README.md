@@ -7,13 +7,13 @@
 #### Bubble sort
 
 ```
-{{ bubble_sort.py }}
+{{ 01_bubble_sort.py }}
 ```
 
 ### Inversions
 
 ```
-{{ count_inversions.py }}
+{{ 02_count_inversions.py }}
 ```
 
 ### $O(n\log n)$ algorithms
@@ -21,36 +21,42 @@
 #### Merge sort
 
 ```
-{{ merge_sort.py }}
+{{ 03_merge_sort.py }}
 ```
 
 ### Counting sort
 
 ```
-{{ counting_sort.py }}
+{{ 04_counting_sort.py }}
 ```
 
 ## Sorting in Python
 
 ```
-{{ inbuilt_sort.py }}
+{{ 05_inbuilt_sort.py }}
 ```
 
 ### Comparison operators
 
 ```
-{{ comparison_operators.py }}
+{{ 06_comparison_operators.py }}
 ```
 
 ### User-defined structs
 
 ```
-{{ user_defined_structs.py }}
+{{ 07_user_defined_structs.py }}
 ```
 
 ### Comparison functions
 
 ```
-{{ comparison_functions.py }}
+{{ 08_comparison_functions.py }}
+```
+
+## Binary Search
+
+```
+{{ 09_linear_search.py }}
 ```
 
