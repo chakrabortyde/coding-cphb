@@ -39,11 +39,18 @@
 ### Comparison operators
 
 ```
-{{ inbuilt_sort_with_comparison.py }}
+{{ comparison_operators.py }}
 ```
 
 ### User-defined structs
 
 ```
-{{ user_defined_comparison.py }}
+{{ user_defined_structs.py }}
 ```
+
+### Comparison functions
+
+```
+{{ comparison_functions.py }}
+```
+
