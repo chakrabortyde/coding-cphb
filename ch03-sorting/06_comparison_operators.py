@@ -1,7 +1,7 @@
 from typing import List
 
 
-def inbuilt_sort_with_comparison(array: List[tuple]) -> List[tuple]:
+def comparison_operators(array: List[tuple]) -> List[tuple]:
     """
 
     :param array:
@@ -13,4 +13,4 @@ def inbuilt_sort_with_comparison(array: List[tuple]) -> List[tuple]:
 
 if __name__ == "__main__":
     array = [(9, 10), (7, 8), (5, 6), (3, 4), (1, 2)]
-    print(inbuilt_sort_with_comparison(array))
+    print(comparison_operators(array))

@@ -2,7 +2,7 @@ from functools import total_ordering
 from typing import List, Any
 
 
-def user_defined_comparison(array: List[Any]) -> List[Any]:
+def user_defined_structs(array: List[Any]) -> List[Any]:
     """
 
     :param array:
@@ -46,4 +46,4 @@ if __name__ == "__main__":
         UserStruct(1, "A", "E"),
         UserStruct(1, "B", "D")
     ]
-    print(user_defined_comparison(array))
+    print(user_defined_structs(array))
